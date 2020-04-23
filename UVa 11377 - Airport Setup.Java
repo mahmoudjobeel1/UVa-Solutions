@@ -71,16 +71,6 @@ public class Main {
 			return d+" "+x;
 		}
 	}
-	static class edge{
-		int x;
-		long y;
-		public edge(int x,long y) {
-			this.y=y; this.x=x;
-		}
-		public String toString() {
-			return x+" "+y;
-		}
-	}
 	static Scanner sc = new Scanner(System.in);
 	static PrintWriter pw = new PrintWriter(System.out);
 
