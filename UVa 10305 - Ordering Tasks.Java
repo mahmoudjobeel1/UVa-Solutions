@@ -1,4 +1,5 @@
 // Topological sort by using bfs or dfs but bfs is more easy to debugg
+// any possible answer is accepted
 
 import java.util.*;
 import java.io.*;
